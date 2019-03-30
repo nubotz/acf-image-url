@@ -152,7 +152,7 @@ class nu_acf_field_img_url extends acf_field {
 		<div id="acf-img-url-wrap-<?php echo $field['id']; ?>" class="acf-img-url-wrap">
 			<div class="preview" style="width: <?php echo $field['preview_width']; ?>px;">
 				<?php if ($field['value']): ?>
-					<img class="preview-img" src="<?php echo $field['value']; ?>"  />
+					<img src="<?php echo $field['value']; ?>"  />
 					<a class="acf-img-url-preview-delete acf-icon -cancel dark" data-name="remove" href="#" title="Remove"></a>
 				<?php endif; ?>
 			</div>

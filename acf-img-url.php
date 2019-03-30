@@ -2,7 +2,7 @@
 
 /*
 Plugin Name: ACF Image Url
-Plugin URI: PLUGIN_URL
+Plugin URI: https://github.com/nubotz/acf-image-url
 Description: Add "Image Url" field type to ACF5
 Version: 1.0.0
 Author: nubotz

@@ -2,4 +2,4 @@
 
 Welcome to the Advanced Custom Fields Image Url repository on Github.
 
-EXTENDED_DESCRIPTION
+This Plugin allows you to select image from media center or input image source url directly. Only on ACF5.

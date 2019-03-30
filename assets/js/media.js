@@ -36,7 +36,7 @@ jQuery(document).ready(function($){
     var wrap = $(this).closest('.acf-img-url-wrap');
     wrap.find('input').val('');
     wrap.find('.preview').fadeOut(400, function() {
-      $(this).html('');
+      $(this).html('').css('display', 'block');
     });
   });
 

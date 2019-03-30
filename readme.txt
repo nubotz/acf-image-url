@@ -4,6 +4,7 @@ Tags: ACF Image Url, ACF Field Type, Image Url, Custom Field
 Requires at least: 3.6.0
 Tested up to: 4.9.0
 Stable tag: trunk
+Requires PHP: 5.2.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -17,7 +18,6 @@ EXTENDED_DESCRIPTION
 
 This ACF field type is compatible with:
 * ACF 5
-* ACF 4
 
 == Installation ==
 
